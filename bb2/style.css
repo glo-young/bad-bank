@@ -1,0 +1,14 @@
+
+body {
+    background-image: url("mainbg.jpg");
+    background-size: cover;
+}
+
+/**navbar**/
+
+
+a.navlink {
+    cursor: default;
+}
+
+
